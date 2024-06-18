@@ -11,7 +11,7 @@
 1. Local 브랜치를 생성한다.(이름 자유)
 
 ```bash
-git checkout -b dev_sdo_local
+git checkout -b dev_sdo
 ```
 
 2. 개인 Remote 브랜치를 생성한다.(이름: dev\_초성 ex: dev_sdo)
@@ -25,7 +25,7 @@ git commit -m "message"
 4. 개인 Remote 브랜치로 commit한 Local 브랜치의 내용을 push한다.(로컬 브랜치와 동일하게)
 
 ```bash
-git push origin dev_sdo_local
+git push origin dev_sdo
 ```
 
 5. commit된 Remote 브랜치를 Remote 브랜치 중 dev에 Pull Request 한다.
