@@ -4,7 +4,7 @@
 
 ### **깃허브 브랜치 사용법!**
 
-참고용 강의: https://www.youtube.com/watch?v=sly2u8BIi9E
+참고용 강의: https://www.youtube.com/watch?v=Z9dvM7qgN9s&t=309s
 
 참고: https://eehoeskrap.tistory.com/666
 
